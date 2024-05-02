@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samwel-Otieno
 - 👀 I’m interested in embedded systems development
-- 🌱 I’m currently learning artificial intelligence and machine learning
+- 🌱 I’m currently learning PCB design and bare metal firmware development
 - 💞️ I’m looking to collaborate on Embedded systems projects firmware/hardware
 - 📫 Reach me sotile16@gmail.com
 
